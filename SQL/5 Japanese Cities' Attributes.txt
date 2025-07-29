@@ -1,0 +1,3 @@
+Select *
+From City
+Where CountryCode = "JPN"

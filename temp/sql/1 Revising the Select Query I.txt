@@ -1,0 +1,3 @@
+Select * 
+From CITY 
+Where CountryCode="USA" and population>100000

@@ -1,3 +1,0 @@
-Select Distinct City
-From Station
-Where mod(ID, 2) = 0

@@ -1,3 +1,0 @@
-Select Name
-From City
-Where CountryCode="JPN"
